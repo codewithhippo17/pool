@@ -42,11 +42,10 @@ void	ft_print_comb2(void)
 		}
 		a++;
 	}
-	ft_putchar('\n');
 }
 
-int main()
+/*int main()
 {
     ft_print_comb2();
     return 0;
-}
+}*/

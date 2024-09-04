@@ -51,12 +51,10 @@ void	ft_print_comb(void)
 		}
 		a++;
 	}
-	ft_putchar('\n');
 }
 
-
-int main()
+/*int main()
 {
     ft_print_comb();
     return 0;
-}
+}*/
